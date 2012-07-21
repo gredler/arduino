@@ -1,6 +1,8 @@
 arduino
 =======
 
+Random Arduino experiments. 
+
 Introduction
 ------------
 
